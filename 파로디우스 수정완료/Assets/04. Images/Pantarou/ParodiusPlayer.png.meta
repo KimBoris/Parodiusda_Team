@@ -1,0 +1,1152 @@
+fileFormatVersion: 2
+guid: 6c3f931bd91bd0341afefb8b28721769
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4278104877677760979
+    second: ParodiusPlayer_0
+  - first:
+      213: -4566456611923668305
+    second: ParodiusPlayer_1
+  - first:
+      213: 4231223676418611003
+    second: ParodiusPlayer_2
+  - first:
+      213: -662847311307874789
+    second: ParodiusPlayer_3
+  - first:
+      213: -6089602179249008045
+    second: ParodiusPlayer_4
+  - first:
+      213: 1190886960200724735
+    second: ParodiusPlayer_5
+  - first:
+      213: 8902240852760992840
+    second: ParodiusPlayer_6
+  - first:
+      213: -7717973755575148392
+    second: ParodiusPlayer_7
+  - first:
+      213: -6233675826860589917
+    second: ParodiusPlayer_8
+  - first:
+      213: -3715366478661673436
+    second: ParodiusPlayer_9
+  - first:
+      213: -4897704928255151689
+    second: ParodiusPlayer_10
+  - first:
+      213: -1398851243632979822
+    second: ParodiusPlayer_11
+  - first:
+      213: 6008567430110889001
+    second: ParodiusPlayer_12
+  - first:
+      213: 2110029632086533670
+    second: ParodiusPlayer_13
+  - first:
+      213: 5117376729302455958
+    second: ParodiusPlayer_14
+  - first:
+      213: 6318978598281577347
+    second: ParodiusPlayer_15
+  - first:
+      213: 4814159666944364299
+    second: ParodiusPlayer_16
+  - first:
+      213: -3241823766589291507
+    second: ParodiusPlayer_17
+  - first:
+      213: 4267171287447008230
+    second: ParodiusPlayer_18
+  - first:
+      213: -4472380260166890121
+    second: ParodiusPlayer_19
+  - first:
+      213: -7759139466752664817
+    second: ParodiusPlayer_20
+  - first:
+      213: -3497324273863129446
+    second: ParodiusPlayer_21
+  - first:
+      213: -4184097565208123062
+    second: ParodiusPlayer_22
+  - first:
+      213: -5189228578319865967
+    second: ParodiusPlayer_23
+  - first:
+      213: -8991775009988406858
+    second: ParodiusPlayer_24
+  - first:
+      213: 6678208480230008457
+    second: ParodiusPlayer_25
+  - first:
+      213: 1935156027603035056
+    second: ParodiusPlayer_26
+  - first:
+      213: -8047544758658838319
+    second: ParodiusPlayer_27
+  - first:
+      213: -8429410235108414451
+    second: ParodiusPlayer_28
+  - first:
+      213: 7495518529888163584
+    second: ParodiusPlayer_29
+  - first:
+      213: -465522254408613320
+    second: ParodiusPlayer_30
+  - first:
+      213: -7867338321464166132
+    second: ParodiusPlayer_31
+  - first:
+      213: 7209550240567624298
+    second: ParodiusPlayer_32
+  - first:
+      213: 5963455417771102761
+    second: ParodiusPlayer_33
+  - first:
+      213: -5985906554403305974
+    second: ParodiusPlayer_34
+  - first:
+      213: 4033758491448932870
+    second: ParodiusPlayer_35
+  - first:
+      213: -4630293970394996491
+    second: ParodiusPlayer_36
+  - first:
+      213: -2358111885085780893
+    second: ParodiusPlayer_37
+  - first:
+      213: -3005673528936965746
+    second: ParodiusPlayer_38
+  - first:
+      213: -8126024766850664610
+    second: ParodiusPlayer_39
+  - first:
+      213: -4831469850930734666
+    second: ParodiusPlayer_40
+  - first:
+      213: 3475011159918395276
+    second: ParodiusPlayer_41
+  - first:
+      213: -7803137564088595716
+    second: ParodiusPlayer_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ParodiusPlayer_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 372
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d159d948b1ee5b30800000000000000
+      internalID: 4278104877677760979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 372
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa25e04d7efa0a0c0800000000000000
+      internalID: -4566456611923668305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 372
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b375726048358ba30800000000000000
+      internalID: 4231223676418611003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 372
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1edb2dd1e71dc6f0800000000000000
+      internalID: -662847311307874789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 372
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3521b6205136d7ba0800000000000000
+      internalID: -6089602179249008045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 372
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0b8667161e68010800000000000000
+      internalID: 1190886960200724735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 317
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c1ac5b3ec1b8b70800000000000000
+      internalID: 8902240852760992840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 317
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890e729c2cf34e490800000000000000
+      internalID: -7717973755575148392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 317
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acf807ecd88d79a0800000000000000
+      internalID: -6233675826860589917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 317
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e1afc5fdd507cc0800000000000000
+      internalID: -3715366478661673436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 321
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1fba0215bd70cb0800000000000000
+      internalID: -4897704928255151689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 320
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29094a19438469ce0800000000000000
+      internalID: -1398851243632979822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_12
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 320
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924cdb03e38b26350800000000000000
+      internalID: 6008567430110889001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 321
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626e01e55c4584d10800000000000000
+      internalID: 2110029632086533670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 281
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6965ce3b503940740800000000000000
+      internalID: 5117376729302455958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 281
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3838ed54e8581b750800000000000000
+      internalID: 6318978598281577347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 281
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f4b38e5b45fc240800000000000000
+      internalID: 4814159666944364299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 281
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04c600d57ab203d0800000000000000
+      internalID: -3241823766589291507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_18
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 284
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e376007da9083b30800000000000000
+      internalID: 4267171287447008230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_19
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 283
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d884c59d9eee1c0800000000000000
+      internalID: -4472380260166890121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_20
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 284
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b5e71c3cff15490800000000000000
+      internalID: -7759139466752664817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_21
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 283
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9689004a12077fc0800000000000000
+      internalID: -3497324273863129446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_22
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 283
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a496138ce691fe5c0800000000000000
+      internalID: -4184097565208123062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 283
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19760fa0a182cf7b0800000000000000
+      internalID: -5189228578319865967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_24
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 282
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b11865d44cc63380800000000000000
+      internalID: -8991775009988406858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_25
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 282
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9866c18ea33cdac50800000000000000
+      internalID: 6678208480230008457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 250
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b32c3a772e0bda10800000000000000
+      internalID: 1935156027603035056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_27
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 248
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d055120ea0615090800000000000000
+      internalID: -8047544758658838319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c22565d08b40b80800000000000000
+      internalID: -8429410235108414451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_29
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 369
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0079755d36e650860800000000000000
+      internalID: 7495518529888163584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 369
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8328feed9f12a89f0800000000000000
+      internalID: -465522254408613320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_31
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 369
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c097f45ca7991d290800000000000000
+      internalID: -7867338321464166132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_32
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 369
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a628d57feb77d0460800000000000000
+      internalID: 7209550240567624298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_33
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 369
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92210225b1372c250800000000000000
+      internalID: 5963455417771102761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_34
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 394
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06cb1614b9cdeca0800000000000000
+      internalID: -5985906554403305974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_35
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 194
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a7788e9f9caf730800000000000000
+      internalID: 4033758491448932870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_36
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 194
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f029f09a24edbfb0800000000000000
+      internalID: -4630293970394996491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_37
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 194
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364d5dcfbbd464fd0800000000000000
+      internalID: -2358111885085780893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_38
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 194
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89dae4a9d3b946d0800000000000000
+      internalID: -3005673528936965746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_39
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 185
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57f6df278f8a3f80800000000000000
+      internalID: -8126024766850664610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_40
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 185
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b99340d4cb23fcb0800000000000000
+      internalID: -4831469850930734666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_41
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 185
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f34711d38b93030800000000000000
+      internalID: 3475011159918395276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayer_42
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 185
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa0efe6abfa5b390800000000000000
+      internalID: -7803137564088595716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

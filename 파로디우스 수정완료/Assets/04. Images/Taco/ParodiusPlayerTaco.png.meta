@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 42c47d3e0d3aa0f4cafcfff9ec5cc22b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4278104877677760979
+    second: ParodiusPlayer_0
+  - first:
+      213: -4566456611923668305
+    second: ParodiusPlayer_1
+  - first:
+      213: 4231223676418611003
+    second: ParodiusPlayer_2
+  - first:
+      213: -662847311307874789
+    second: ParodiusPlayer_3
+  - first:
+      213: -6089602179249008045
+    second: ParodiusPlayer_4
+  - first:
+      213: 1190886960200724735
+    second: ParodiusPlayer_5
+  - first:
+      213: 8902240852760992840
+    second: ParodiusPlayer_6
+  - first:
+      213: -7717973755575148392
+    second: ParodiusPlayer_7
+  - first:
+      213: -6233675826860589917
+    second: ParodiusPlayer_8
+  - first:
+      213: -3715366478661673436
+    second: ParodiusPlayer_9
+  - first:
+      213: -4897704928255151689
+    second: ParodiusPlayer_10
+  - first:
+      213: -1398851243632979822
+    second: ParodiusPlayer_11
+  - first:
+      213: 6008567430110889001
+    second: ParodiusPlayer_12
+  - first:
+      213: 2110029632086533670
+    second: ParodiusPlayer_13
+  - first:
+      213: 5117376729302455958
+    second: ParodiusPlayer_14
+  - first:
+      213: 6318978598281577347
+    second: ParodiusPlayer_15
+  - first:
+      213: 4814159666944364299
+    second: ParodiusPlayer_16
+  - first:
+      213: -3241823766589291507
+    second: ParodiusPlayer_17
+  - first:
+      213: 4267171287447008230
+    second: ParodiusPlayer_18
+  - first:
+      213: -4472380260166890121
+    second: ParodiusPlayer_19
+  - first:
+      213: -7759139466752664817
+    second: ParodiusPlayer_20
+  - first:
+      213: -3497324273863129446
+    second: ParodiusPlayer_21
+  - first:
+      213: -4184097565208123062
+    second: ParodiusPlayer_22
+  - first:
+      213: -5189228578319865967
+    second: ParodiusPlayer_23
+  - first:
+      213: -8991775009988406858
+    second: ParodiusPlayer_24
+  - first:
+      213: 6678208480230008457
+    second: ParodiusPlayer_25
+  - first:
+      213: 1935156027603035056
+    second: ParodiusPlayer_26
+  - first:
+      213: -8047544758658838319
+    second: ParodiusPlayer_27
+  - first:
+      213: -8429410235108414451
+    second: ParodiusPlayer_28
+  - first:
+      213: 7495518529888163584
+    second: ParodiusPlayer_29
+  - first:
+      213: -465522254408613320
+    second: ParodiusPlayer_30
+  - first:
+      213: -7867338321464166132
+    second: ParodiusPlayer_31
+  - first:
+      213: 7209550240567624298
+    second: ParodiusPlayer_32
+  - first:
+      213: 5963455417771102761
+    second: ParodiusPlayer_33
+  - first:
+      213: -5985906554403305974
+    second: ParodiusPlayer_34
+  - first:
+      213: 1873112156008692932
+    second: ParodiusPlayerTaco_0
+  - first:
+      213: 5441280765858379968
+    second: ParodiusPlayerTaco_1
+  - first:
+      213: -8511007814586241599
+    second: ParodiusPlayerTaco_2
+  - first:
+      213: 2531742833793490500
+    second: ParodiusPlayerTaco_3
+  - first:
+      213: -2852120544382071525
+    second: ParodiusPlayerTaco_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ParodiusPlayer_34
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 394
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06cb1614b9cdeca0800000000000000
+      internalID: -5985906554403305974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayerTaco_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1027
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc3d5be491aef910800000000000000
+      internalID: 1873112156008692932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayerTaco_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1027
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c877240700538b40800000000000000
+      internalID: 5441280765858379968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayerTaco_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1027
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd63036c73d2e980800000000000000
+      internalID: -8511007814586241599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayerTaco_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1028
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ed6ee81be822320800000000000000
+      internalID: 2531742833793490500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParodiusPlayerTaco_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1029
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d438fd97b3b68d0800000000000000
+      internalID: -2852120544382071525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

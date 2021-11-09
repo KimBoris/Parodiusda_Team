@@ -1,0 +1,46 @@
+fileFormatVersion: 2
+guid: 156a10e62ee230a4e817a0d345bc2387
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemySPrefab: {instanceID: 0}
+  - enemyMPrefab: {instanceID: 0}
+  - enemyLPrefab: {instanceID: 0}
+  - enemyBPrefab: {instanceID: 0}
+  - bossSubPrefab: {instanceID: 0}
+  - PantarouBulletNormalPrefab: {instanceID: 0}
+  - PantarouBulletDoublePrefab: {instanceID: 0}
+  - PantarouBulletSpreadPrefab: {instanceID: 0}
+  - PantarouBulletPotonPrefab: {instanceID: 0}
+  - PantarouBulletSpreadBombPrefab: {instanceID: 0}
+  - TacoBulletNormalPrefab: {instanceID: 0}
+  - TacoBulletDoublePrefab: {instanceID: 0}
+  - TacoBulletRipplePrefab: {instanceID: 0}
+  - TacoBulletUpTwoWayPrefab: {instanceID: 0}
+  - TacoBulletDownTwoWayPrefab: {instanceID: 0}
+  - playerCannonPrefab: {instanceID: 0}
+  - enemyBulletAPrefab: {instanceID: 0}
+  - enemyBulletBPrefab: {instanceID: 0}
+  - enemyBulletCPrefab: {instanceID: 0}
+  - itemCoin1Prefab: {instanceID: 0}
+  - itemCoin5Prefab: {instanceID: 0}
+  - itemCoin10Prefab: {instanceID: 0}
+  - effectCoinPrefab: {instanceID: 0}
+  - itemPowerPrefab: {instanceID: 0}
+  - itemHealPrefab: {instanceID: 0}
+  - itemRiflePrefab: {instanceID: 0}
+  - itemCannonPrefab: {instanceID: 0}
+  - itemTankPrefab: {instanceID: 0}
+  - explosionEffectSPrefab: {instanceID: 0}
+  - explosionEffectLPrefab: {instanceID: 0}
+  - bulletHitEffectPrefab: {instanceID: 0}
+  - bossMinimeBulletPrefab: {instanceID: 0}
+  - BabyChickPrefeb: {fileID: 5727740114356817438, guid: 5d1f4bdecce3dcb4aaf14f1ccb00a042, type: 3}
+  - AdultChickPrefeb: {fileID: 915118504144660383, guid: 89ad51aa061059d42a5444310d8bdec1, type: 3}
+  - MoaiPrefeb: {fileID: 387336637811100580, guid: e54d907a9acf72d4c9bd61c921e67298, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

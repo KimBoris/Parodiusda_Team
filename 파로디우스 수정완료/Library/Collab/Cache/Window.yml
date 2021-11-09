@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/02. Scripts/Enemy/E_MoaiCheck.cs
+    - Assets/02. Scripts/Enemy/E_NiddleMove.cs
+    - Assets/02. Scripts/Manager/MonsterManagerKBK.cs
+    - Assets/02. Scripts/Pirate/BottomLeftCanon.cs
+    - Assets/02. Scripts/Pirate/BottomPenguin.cs
+    - Assets/02. Scripts/Pirate/BottomRightCannon.cs
+    - Assets/02. Scripts/Pirate/CatFoot.cs
+    - Assets/02. Scripts/Pirate/E_Pingpong.cs
+    - Assets/02. Scripts/Pirate/E_Pingpong.cs.meta
+    - Assets/02. Scripts/Pirate/PirateBullet.cs
+    - Assets/02. Scripts/Pirate/PirateFace.cs
+    - Assets/02. Scripts/Pirate/PirateMover.cs
+    - Assets/02. Scripts/Pirate/PirateMover.cs.meta
+    - Assets/02. Scripts/Pirate/PiratePenguin.cs
+    - Assets/02. Scripts/Pirate/PiratePenguinZone.cs
+    - Assets/02. Scripts/Pirate/PirateStatus.cs
+    - Assets/02. Scripts/Pirate/Propeller.cs
+    - Assets/02. Scripts/Pirate/ScopeScript.cs
+    - Assets/02. Scripts/Pirate/ShipTale.cs
+    - Assets/02. Scripts/Pirate/StickPenguinLeft.cs
+    - Assets/02. Scripts/Pirate/StickPenguinRight.cs
+    - Assets/02. Scripts/Pirate/TopCannon1.cs
+    - Assets/02. Scripts/Pirate/TopCannon2.cs
+    - Assets/02. Scripts/Pirate/TopPenguin.cs
+    - Assets/02. Scripts/Pirate/pirateMove.cs
+    - Assets/02. Scripts/boss/BossAttack.cs
+    - Assets/02. Scripts/boss/BossMinimeAttack.cs
+    - Assets/02. Scripts/boss/BossMinimeBullet.cs
+    - Assets/02. Scripts/boss/BossMinimeScript.cs
+    - Assets/02. Scripts/boss/BossMove.cs
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/UnityConnectSettings.asset
+    - 
+    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0

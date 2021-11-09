@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 7f970c3e4afb6fa47a3af9b69ccf907a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8058472756968827234
+    second: PirateShipsParts (7)_0
+  - first:
+      213: -5534713706075259436
+    second: PirateShipsParts (7)_1
+  - first:
+      213: -6725337106187013326
+    second: PirateShipsParts (7)_2
+  - first:
+      213: 176424047780148926
+    second: PirateShipsParts (7)_3
+  - first:
+      213: -27654275064594036
+    second: PirateShipsParts (7)_4
+  - first:
+      213: -942310840056626712
+    second: PirateShipsParts (7)_5
+  - first:
+      213: 1181609662185740191
+    second: PirateShipsParts (7)_6
+  - first:
+      213: 3356476033427225562
+    second: PirateShipsParts (7)_7
+  - first:
+      213: -4494928687646688342
+    second: PirateShipsParts (7)_8
+  - first:
+      213: 6408731733766669057
+    second: PirateShipsParts (7)_9
+  - first:
+      213: 4076685582729713547
+    second: PirateShipsParts (7)_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PirateShipsParts (7)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5048719, y: 0.16200511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2692a4fd64275df60800000000000000
+      internalID: 8058472756968827234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateShipsParts (7)_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 33
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.3341533, y: 0.1636529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddf5ef553fb033b0800000000000000
+      internalID: -5534713706075259436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateShipsParts (7)_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 33
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0.301387, y: 0.16228104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23338f6c88dcaa2a0800000000000000
+      internalID: -6725337106187013326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateShipsParts (7)_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 33
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0.30517656, y: 0.16369788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6b5c99cb8c27200800000000000000
+      internalID: 176424047780148926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateShipsParts (7)_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 33
+        width: 21
+        height: 24
+      alignment: 9
+      pivot: {x: 0.2878774, y: 0.16544898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8101465590cd9ff0800000000000000
+      internalID: -27654275064594036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateShipsParts (7)_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.31960547, y: 0.16359769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1cc66984d3ce2f0800000000000000
+      internalID: -942310840056626712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateShipsParts (7)_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0.30004922, y: 0.16213967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9710c13abbe56010800000000000000
+      internalID: 1181609662185740191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateShipsParts (7)_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 21
+        height: 24
+      alignment: 9
+      pivot: {x: 0.28695533, y: 0.16419034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbba854b29949e20800000000000000
+      internalID: 3356476033427225562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateShipsParts (7)_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0.30080682, y: 0.16410582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab3b1a7c2ece91c0800000000000000
+      internalID: -4494928687646688342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateShipsParts (7)_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.33856285, y: 0.16215295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1038fe39e8360f850800000000000000
+      internalID: 6408731733766669057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirateShipsParts (7)_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5303273, y: 0.16215295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b879f8330fb439830800000000000000
+      internalID: 4076685582729713547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1936667851124554759
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1936667851124554753}
+  - component: {fileID: 1936667851124554752}
+  m_Layer: 0
+  m_Name: ObjPoolingManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1936667851124554753
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1936667851124554759}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1936667851124554752
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1936667851124554759}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 156a10e62ee230a4e817a0d345bc2387, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemySPrefab: {fileID: 3165386968549622575, guid: be026cbe4991bb340a6058b4521b3aaa, type: 3}
+  enemyMPrefab: {fileID: 3165386968549622575, guid: be026cbe4991bb340a6058b4521b3aaa, type: 3}
+  enemyLPrefab: {fileID: 3165386968549622575, guid: be026cbe4991bb340a6058b4521b3aaa, type: 3}
+  enemyBPrefab: {fileID: 3165386968549622575, guid: be026cbe4991bb340a6058b4521b3aaa, type: 3}
+  bossSubPrefab: {fileID: 3275012370022823517, guid: 9ea81d93681f23445b2402d1bb62cb0d, type: 3}
+  PantarouBulletNormalPrefab: {fileID: 3165386968549622575, guid: be026cbe4991bb340a6058b4521b3aaa, type: 3}
+  PantarouBulletDoublePrefab: {fileID: 1530158786306590093, guid: 59b19a1923a2d7d4e8239f764ffc3d5d, type: 3}
+  PantarouBulletSpreadPrefab: {fileID: 4174891402908643785, guid: fa8a81604de325d439c8233e084b8ee1, type: 3}
+  PantarouBulletPotonPrefab: {fileID: 4426883902720612657, guid: bc8b9975d152e7f40b42aecd01a10337, type: 3}
+  PantarouBulletSpreadBombPrefab: {fileID: 5805936574118927658, guid: b7bbc1771ec668646810df4dea7cf805, type: 3}
+  TacoBulletNormalPrefab: {fileID: 3188461391165937908, guid: 8ee587c8be3e694469037b95558f6ed9, type: 3}
+  TacoBulletDoublePrefab: {fileID: 3188461391165937908, guid: b41702e933d908642850b70620f2d55c, type: 3}
+  TacoBulletRipplePrefab: {fileID: 3188461391165937908, guid: 8ee587c8be3e694469037b95558f6ed9, type: 3}
+  TacoBulletTwoWayPrefab: {fileID: 3188461391165937908, guid: 8ee587c8be3e694469037b95558f6ed9, type: 3}
+  playerBulletJPrefab: {fileID: 3165386968549622575, guid: be026cbe4991bb340a6058b4521b3aaa, type: 3}
+  playerCannonPrefab: {fileID: 4426883902720612657, guid: bc8b9975d152e7f40b42aecd01a10337, type: 3}
+  enemyBulletAPrefab: {fileID: 3165386968549622575, guid: be026cbe4991bb340a6058b4521b3aaa, type: 3}
+  enemyBulletBPrefab: {fileID: 3165386968549622575, guid: be026cbe4991bb340a6058b4521b3aaa, type: 3}
+  enemyBulletCPrefab: {fileID: 3165386968549622575, guid: be026cbe4991bb340a6058b4521b3aaa, type: 3}
+  itemCoin1Prefab: {fileID: 3165386968549622575, guid: be026cbe4991bb340a6058b4521b3aaa, type: 3}
+  itemCoin5Prefab: {fileID: 3165386968549622575, guid: be026cbe4991bb340a6058b4521b3aaa, type: 3}
+  itemCoin10Prefab: {fileID: 3165386968549622575, guid: be026cbe4991bb340a6058b4521b3aaa, type: 3}
+  effectCoinPrefab: {fileID: 3165386968549622575, guid: be026cbe4991bb340a6058b4521b3aaa, type: 3}
+  itemPowerPrefab: {fileID: 3165386968549622575, guid: be026cbe4991bb340a6058b4521b3aaa, type: 3}
+  itemHealPrefab: {fileID: 3165386968549622575, guid: be026cbe4991bb340a6058b4521b3aaa, type: 3}
+  itemRiflePrefab: {fileID: 3165386968549622575, guid: be026cbe4991bb340a6058b4521b3aaa, type: 3}
+  itemCannonPrefab: {fileID: 3165386968549622575, guid: be026cbe4991bb340a6058b4521b3aaa, type: 3}
+  itemTankPrefab: {fileID: 3165386968549622575, guid: be026cbe4991bb340a6058b4521b3aaa, type: 3}
+  explosionEffectSPrefab: {fileID: 3165386968549622575, guid: be026cbe4991bb340a6058b4521b3aaa, type: 3}
+  explosionEffectLPrefab: {fileID: 3165386968549622575, guid: be026cbe4991bb340a6058b4521b3aaa, type: 3}
+  bulletHitEffectPrefab: {fileID: 3165386968549622575, guid: be026cbe4991bb340a6058b4521b3aaa, type: 3}

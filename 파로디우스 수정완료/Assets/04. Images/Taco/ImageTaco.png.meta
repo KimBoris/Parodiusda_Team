@@ -1,0 +1,2808 @@
+fileFormatVersion: 2
+guid: 32fe3878f9dc21746bb6067dcf8e11b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5510957334943836850
+    second: ImageTaco_0
+  - first:
+      213: -8570557401365993464
+    second: ImageTaco_1
+  - first:
+      213: -3988344122246066210
+    second: ImageTaco_2
+  - first:
+      213: 2428467765134337228
+    second: ImageTaco_3
+  - first:
+      213: -4195683727124257680
+    second: ImageTaco_4
+  - first:
+      213: 2309617107226914309
+    second: ImageTaco_5
+  - first:
+      213: -6463670622860432087
+    second: ImageTaco_6
+  - first:
+      213: 1754328459525610798
+    second: ImageTaco_7
+  - first:
+      213: 6482236154358205887
+    second: ImageTaco_8
+  - first:
+      213: 362302969402105315
+    second: ImageTaco_9
+  - first:
+      213: 8976652411278721622
+    second: ImageTaco_10
+  - first:
+      213: -2876648181585118842
+    second: ImageTaco_11
+  - first:
+      213: 882306772110358971
+    second: ImageTaco_12
+  - first:
+      213: -1317106242111455455
+    second: ImageTaco_13
+  - first:
+      213: -1696105677043272147
+    second: ImageTaco_14
+  - first:
+      213: 5659857452247043024
+    second: ImageTaco_15
+  - first:
+      213: 2519315142238596453
+    second: ImageTaco_16
+  - first:
+      213: 8302559063940950280
+    second: ImageTaco_17
+  - first:
+      213: 6278573481474641150
+    second: ImageTaco_18
+  - first:
+      213: -5915258047129889778
+    second: ImageTaco_19
+  - first:
+      213: 1005409688416435297
+    second: ImageTaco_20
+  - first:
+      213: 4896482810712970202
+    second: ImageTaco_21
+  - first:
+      213: 5879999680494305442
+    second: ImageTaco_22
+  - first:
+      213: 1509527545637688780
+    second: ImageTaco_24
+  - first:
+      213: -1589624672197384996
+    second: ImageTaco_25
+  - first:
+      213: 3382688228036315934
+    second: ImageTaco_26
+  - first:
+      213: 6840263709723989998
+    second: ImageTaco_27
+  - first:
+      213: 2082884903147999530
+    second: ImageTaco_28
+  - first:
+      213: 7500192161667583391
+    second: ImageTaco_29
+  - first:
+      213: 3016879439746768264
+    second: ImageTaco_30
+  - first:
+      213: 2357692068245485335
+    second: ImageTaco_31
+  - first:
+      213: 8159808765803349537
+    second: ImageTaco_32
+  - first:
+      213: 2481581930984330751
+    second: ImageTaco_33
+  - first:
+      213: -6788689073795558883
+    second: ImageTaco_34
+  - first:
+      213: -1170924067476782897
+    second: ImageTaco_35
+  - first:
+      213: 4269406370332883254
+    second: ImageTaco_36
+  - first:
+      213: -9176220496367412801
+    second: ImageTaco_55
+  - first:
+      213: 7219796584878617566
+    second: ImageTaco_71
+  - first:
+      213: 1586400257228716980
+    second: ImageTaco_72
+  - first:
+      213: 8843266944755515534
+    second: ImageTaco_86
+  - first:
+      213: 8011584895618587437
+    second: ImageTaco_87
+  - first:
+      213: 1786259691523364960
+    second: ImageTaco_88
+  - first:
+      213: 1151833554588619887
+    second: ImageTaco_89
+  - first:
+      213: -2325033039481312694
+    second: ImageTaco_90
+  - first:
+      213: -7685605021832908821
+    second: ImageTaco_91
+  - first:
+      213: 3571140222030168894
+    second: ImageTaco_92
+  - first:
+      213: 6714778535151079250
+    second: ImageTaco_93
+  - first:
+      213: -9116386325507172061
+    second: ImageTaco_94
+  - first:
+      213: 6684171844662108219
+    second: ImageTaco_95
+  - first:
+      213: 1336827426529499049
+    second: ImageTaco_96
+  - first:
+      213: -8665739719212158706
+    second: ImageTaco_97
+  - first:
+      213: -8465624266354312510
+    second: ImageTaco_98
+  - first:
+      213: -899611040891931588
+    second: ImageTaco_99
+  - first:
+      213: 7049517968917505014
+    second: ImageTaco_100
+  - first:
+      213: 5579483514841931355
+    second: ImageTaco_101
+  - first:
+      213: 5476148951077971859
+    second: ImageTaco_102
+  - first:
+      213: 198034231541585835
+    second: ImageTaco_103
+  - first:
+      213: -7616828458990707505
+    second: ImageTaco_104
+  - first:
+      213: 3793690006853090572
+    second: ImageTaco_105
+  - first:
+      213: -5954118078748084211
+    second: ImageTaco_106
+  - first:
+      213: 8007433081079132004
+    second: ImageTaco_107
+  - first:
+      213: -3382714924246572387
+    second: ImageTaco_108
+  - first:
+      213: -3846069489210934110
+    second: ImageTaco_109
+  - first:
+      213: -500964300534041512
+    second: ImageTaco_110
+  - first:
+      213: 3134363050323104470
+    second: ImageTaco_111
+  - first:
+      213: -2752852548460294218
+    second: ImageTaco_112
+  - first:
+      213: 5489627646993706485
+    second: ImageTaco_113
+  - first:
+      213: 9157093847742937321
+    second: ImageTaco_114
+  - first:
+      213: -419469919039124900
+    second: ImageTaco_115
+  - first:
+      213: -519753880922563499
+    second: ImageTaco_116
+  - first:
+      213: 7130662855127886925
+    second: ImageTaco_117
+  - first:
+      213: 5875230891121925500
+    second: ImageTaco_118
+  - first:
+      213: -8047487715473707925
+    second: ImageTaco_119
+  - first:
+      213: 3271064500573511626
+    second: ImageTaco_120
+  - first:
+      213: -6498308016635356527
+    second: ImageTaco_121
+  - first:
+      213: -6005309893041215272
+    second: ImageTaco_122
+  - first:
+      213: 6511538810854083181
+    second: ImageTaco_123
+  - first:
+      213: 6123867390599556182
+    second: ImageTaco_124
+  - first:
+      213: 4734803096398813000
+    second: ImageTaco_125
+  - first:
+      213: 2982467677912762915
+    second: ImageTaco_126
+  - first:
+      213: 344325738667217600
+    second: ImageTaco_127
+  - first:
+      213: 6255271862678238652
+    second: ImageTaco_128
+  - first:
+      213: -4664265218259109130
+    second: ImageTaco_129
+  - first:
+      213: 531619247263748057
+    second: ImageTaco_130
+  - first:
+      213: -2098848552352934362
+    second: ImageTaco_131
+  - first:
+      213: 6248823649784129091
+    second: ImageTaco_132
+  - first:
+      213: -9130954910198619003
+    second: ImageTaco_133
+  - first:
+      213: 462203317551674555
+    second: ImageTaco_134
+  - first:
+      213: 4472217026748410299
+    second: ImageTaco_135
+  - first:
+      213: -3263670510254865239
+    second: ImageTaco_136
+  - first:
+      213: -1579295397698798560
+    second: ImageTaco_137
+  - first:
+      213: -3962995981647659223
+    second: ImageTaco_138
+  - first:
+      213: -1357500319942133145
+    second: ImageTaco_139
+  - first:
+      213: 9156711616931678938
+    second: ImageTaco_140
+  - first:
+      213: -8158580986057051694
+    second: ImageTaco_141
+  - first:
+      213: -4092076784731127982
+    second: ImageTaco_142
+  - first:
+      213: 4853777452743448078
+    second: ImageTaco_143
+  - first:
+      213: -8187823548807896295
+    second: ImageTaco_144
+  - first:
+      213: -7301080560575588436
+    second: ImageTaco_145
+  - first:
+      213: 6071964444037068229
+    second: ImageTaco_146
+  - first:
+      213: -3183182655867199972
+    second: ImageTaco_147
+  - first:
+      213: -1995019259819103241
+    second: ImageTaco_148
+  - first:
+      213: -2458970490619933390
+    second: ImageTaco_149
+  - first:
+      213: 8818260871754140847
+    second: ImageTaco_150
+  - first:
+      213: -1604582024851227257
+    second: ImageTaco_151
+  - first:
+      213: 1133810390848434821
+    second: ImageTaco_152
+  - first:
+      213: 4309077210147472765
+    second: ImageTaco_153
+  - first:
+      213: -6452757155159860912
+    second: ImageTaco_154
+  - first:
+      213: -1987649914529949035
+    second: ImageTaco_155
+  - first:
+      213: 6967064136412319209
+    second: ImageTaco_156
+  - first:
+      213: -3081045722902999366
+    second: ImageTaco_157
+  - first:
+      213: 300932690363231736
+    second: ImageTaco_158
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ImageTaco_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 503
+        width: 250
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba29a17f7ada7c40800000000000000
+      internalID: 5510957334943836850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 464
+        width: 248
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8082c74c3734f0980800000000000000
+      internalID: -8570557401365993464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 441
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf8187e62e86a8c0800000000000000
+      internalID: -3988344122246066210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 423
+        width: 224
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4a159d096a3b120800000000000000
+      internalID: 2428467765134337228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 405
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0742fde31efe5c5c0800000000000000
+      internalID: -4195683727124257680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 405
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50eec6ba5886d0020800000000000000
+      internalID: 2309617107226914309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 404
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92da64380dd6c46a0800000000000000
+      internalID: -6463670622860432087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 404
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dd1696070a85810800000000000000
+      internalID: 1754328459525610798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 404
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd07b2207785f950800000000000000
+      internalID: 6482236154358205887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 404
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed184091a8270500800000000000000
+      internalID: 362302969402105315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 404
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6520c66cec9739c70800000000000000
+      internalID: 8976652411278721622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_11
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 404
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68978d058b71418d0800000000000000
+      internalID: -2876648181585118842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 384
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb93f86a5559e3c00800000000000000
+      internalID: 882306772110358971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 385
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f3f73e9d2b8bde0800000000000000
+      internalID: -1317106242111455455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 385
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26ff428fd83678e0800000000000000
+      internalID: -1696105677043272147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 385
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db48889d5adb8e40800000000000000
+      internalID: 5659857452247043024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 390
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56de46226c766f220800000000000000
+      internalID: 2519315142238596453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_17
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 390
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80966e4da7d983370800000000000000
+      internalID: 8302559063940950280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 390
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efccb7be059f12750800000000000000
+      internalID: 6278573481474641150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 391
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e045d028528c8eda0800000000000000
+      internalID: -5915258047129889778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 391
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c3cc3e8cee3fd00800000000000000
+      internalID: 1005409688416435297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 391
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad35a557c2dc3f340800000000000000
+      internalID: 4896482810712970202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 389
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0064b4e84f99150800000000000000
+      internalID: 5879999680494305442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 367
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5d6601e4be2f410800000000000000
+      internalID: 1509527545637688780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 345
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd46a7768c480f9e0800000000000000
+      internalID: -1589624672197384996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 365
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b000a6509b1fe20800000000000000
+      internalID: 3382688228036315934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_27
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 364
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7181c4a9f7dee50800000000000000
+      internalID: 6840263709723989998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_28
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 364
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a211928a8c4e7ec10800000000000000
+      internalID: 2082884903147999530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 371
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d8d578809061860800000000000000
+      internalID: 7500192161667583391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_30
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 365
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d1948cddb1ed920800000000000000
+      internalID: 3016879439746768264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 365
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7173789c17438b020800000000000000
+      internalID: 2357692068245485335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_32
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 365
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126c3d807d67d3170800000000000000
+      internalID: 8159808765803349537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 347
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff559554e99507220800000000000000
+      internalID: 2481581930984330751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_34
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 345
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1217d1614bb9c1a0800000000000000
+      internalID: -6788689073795558883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_35
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 344
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc04713b3ca00cfe0800000000000000
+      internalID: -1170924067476782897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_36
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 344
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6393b79397aff3b30800000000000000
+      internalID: 4269406370332883254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_55
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 326
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb99c55831487a080800000000000000
+      internalID: -9176220496367412801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_71
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 328
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3b448edbed13460800000000000000
+      internalID: 7219796584878617566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_72
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 276
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbb4bbf0a6040610800000000000000
+      internalID: 1586400257228716980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_86
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 294
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e804b10ce6899ba70800000000000000
+      internalID: 8843266944755515534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_87
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 294
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b1b3fe30ede2f60800000000000000
+      internalID: 8011584895618587437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_88
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 292
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06859d5b9b11ac810800000000000000
+      internalID: 1786259691523364960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_89
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 288
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6451a5e3822cff00800000000000000
+      internalID: 1151833554588619887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_90
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 281
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a6ba6e4c2dbbfd0800000000000000
+      internalID: -2325033039481312694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_91
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 264
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befe0b5e3fe375590800000000000000
+      internalID: -7685605021832908821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_92
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 261
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33c7397c1d3f8130800000000000000
+      internalID: 3571140222030168894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_93
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 261
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f0915508faf2d50800000000000000
+      internalID: 6714778535151079250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_94
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 261
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3299ae800f61c7180800000000000000
+      internalID: -9116386325507172061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_95
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 261
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30a0c2e0e2f2cc50800000000000000
+      internalID: 6684171844662108219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_96
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 260
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a75a4c267d5d8210800000000000000
+      internalID: 1336827426529499049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_97
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 260
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01bd5073ab1db780800000000000000
+      internalID: -8665739719212158706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_98
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 242
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca3602259f048a80800000000000000
+      internalID: -8465624266354312510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_99
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 238
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34fd9f4680f383f0800000000000000
+      internalID: -899611040891931588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_100
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 238
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3af072e3be4d160800000000000000
+      internalID: 7049517968917505014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_101
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 238
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e1d4402be4e6d40800000000000000
+      internalID: 5579483514841931355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_102
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 238
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397612605703ffb40800000000000000
+      internalID: 5476148951077971859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_103
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 238
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba75768951f8fb200800000000000000
+      internalID: 198034231541585835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 238
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccd5ca4fd69b4690800000000000000
+      internalID: -7616828458990707505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_105
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 238
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d7d6e16f4e5a430800000000000000
+      internalID: 3793690006853090572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_106
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 237
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d083d755729be5da0800000000000000
+      internalID: -5954118078748084211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_107
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 238
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fee6846fd102f60800000000000000
+      internalID: 8007433081079132004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_108
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 220
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92eed3e2be2e01d0800000000000000
+      internalID: -3382714924246572387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_109
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 200
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac3d1a4d2400aac0800000000000000
+      internalID: -3846069489210934110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_110
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 196
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85434857f973c09f0800000000000000
+      internalID: -500964300534041512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_111
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 196
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d25e93769e7f7b20800000000000000
+      internalID: 3134363050323104470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_112
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 196
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfcef14137ebc9d0800000000000000
+      internalID: -2752852548460294218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_113
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 196
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd293872431f2c40800000000000000
+      internalID: 5489627646993706485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_114
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 201
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8f1a19658841f70800000000000000
+      internalID: 9157093847742937321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 197
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a06b1c45ebd2af0800000000000000
+      internalID: -419469919039124900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_116
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 197
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cdafc599679c8f0800000000000000
+      internalID: -519753880922563499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_117
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 197
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c68fc361435f260800000000000000
+      internalID: 7130662855127886925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_118
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 197
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d59befd53098150800000000000000
+      internalID: 5875230891121925500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_119
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6caed86f84915090800000000000000
+      internalID: -8047487715473707925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_120
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 177
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf131a15d7256d20800000000000000
+      internalID: 3271064500573511626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_121
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 177
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a5063d94f51d5a0800000000000000
+      internalID: -6498308016635356527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_122
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 177
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8a323487ad8aca0800000000000000
+      internalID: -6005309893041215272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_123
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 177
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a80228c02ad5a50800000000000000
+      internalID: 6511538810854083181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_124
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 177
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ce84432f85cf450800000000000000
+      internalID: 6123867390599556182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_125
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 177
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8475542845665b140800000000000000
+      internalID: 4734803096398813000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_126
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 161
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a03102d8ad36920800000000000000
+      internalID: 2982467677912762915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_127
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 161
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2984c5f6a47c400800000000000000
+      internalID: 344325738667217600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_128
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 160
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5be640e903fc650800000000000000
+      internalID: 6255271862678238652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_129
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 159
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fab47f0f73354fb0800000000000000
+      internalID: -4664265218259109130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_130
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 159
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df8ae483e0b06700800000000000000
+      internalID: 531619247263748057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_131
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 159
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62619af9c546fd2e0800000000000000
+      internalID: -2098848552352934362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_132
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 159
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3466175700848b650800000000000000
+      internalID: 6248823649784129091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_133
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 161
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584a08513e4584180800000000000000
+      internalID: -9130954910198619003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_134
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 160
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4bcace7731a6600800000000000000
+      internalID: 462203317551674555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 159
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9eac5e0b1801e30800000000000000
+      internalID: 4472217026748410299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_136
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4475c66fc15b2d0800000000000000
+      internalID: -3263670510254865239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_137
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cf0c80437351ae0800000000000000
+      internalID: -1579295397698798560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_138
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 156
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f379bc62c9009c0800000000000000
+      internalID: -3962995981647659223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_139
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 138
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76abe5fb6a0392de0800000000000000
+      internalID: -1357500319942133145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_140
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 138
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adac7e583bc231f70800000000000000
+      internalID: 9156711616931678938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_141
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d130d6b1d5e6ce80800000000000000
+      internalID: -8158580986057051694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_142
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 138
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f7a7458d50637c0800000000000000
+      internalID: -4092076784731127982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_143
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 138
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06d29970e41c5340800000000000000
+      internalID: 4853777452743448078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_144
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 138
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9132ab10dd10f5e80800000000000000
+      internalID: -8187823548807896295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_145
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 138
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7d166b9e95daa90800000000000000
+      internalID: -7301080560575588436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_146
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 138
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5b1afbd73f34450800000000000000
+      internalID: 6071964444037068229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_147
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 138
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ed9dd5d3013d3d0800000000000000
+      internalID: -3183182655867199972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_148
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 138
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb6b62ad844054e0800000000000000
+      internalID: -1995019259819103241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_149
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 138
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d4e61fd5bffddd0800000000000000
+      internalID: -2458970490619933390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_150
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facc1adaa81c06a70800000000000000
+      internalID: 8818260871754140847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_151
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 138
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78df3cb56216bb9e0800000000000000
+      internalID: -1604582024851227257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_152
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 138
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582fa251b8a1cbf00800000000000000
+      internalID: 1133810390848434821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_153
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 60
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75429464eaeccb30800000000000000
+      internalID: 4309077210147472765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_154
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 81
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05916d83e833376a0800000000000000
+      internalID: -6452757155159860912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_155
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 81
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a5b9a0fe27a64e0800000000000000
+      internalID: -1987649914529949035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_156
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 81
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed48324bebffa060800000000000000
+      internalID: 6967064136412319209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_157
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 81
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe41a53d3ded35d0800000000000000
+      internalID: -3081045722902999366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageTaco_158
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 46
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd276effa02d2400800000000000000
+      internalID: 300932690363231736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
